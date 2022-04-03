@@ -9,7 +9,7 @@
 - Frontend security exercises
 
 ### Possible OSes for exercises
-- RHEL 7/8 (CentOS, Fedora, Scientific, etc)
+- RHEL 7/8 (CentOS, etc)
 - Ubuntu Bionic / Focal
 - Debian Buster / Bullseye
 
