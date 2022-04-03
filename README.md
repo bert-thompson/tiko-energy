@@ -8,7 +8,11 @@
 - Deploy an application server via kubectl
 - Frontend security exercises
 
-### Possible platforms
+### Possible OSes for exercises
 - RHEL 7/8 (CentOS, Fedora, Scientific, etc)
 - Ubuntu Bionic / Focal
 - Debian Buster / Bullseye
+
+### Virtualization / Cloud platforms
+- Cloud: AWS, Azure, Google via REST, gRPC.
+- vSphere: REST, vcgo.
