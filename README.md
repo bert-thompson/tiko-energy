@@ -16,3 +16,6 @@
 ### Virtualization / Cloud platforms
 - Cloud: AWS, Azure, Google via REST, gRPC.
 - vSphere: REST, vcgo.
+
+### References
+
